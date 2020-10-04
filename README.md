@@ -31,11 +31,12 @@ I will introduce the basics of quantum computing via linear algebra from scratch
 1. Textbook: Michael A.Nielsen, Isaac L. Chuang. Quantum computation and quantum information. 
 2. Phd Thesis: Xavier Bonnetain. Hidden Structures and Quantum Cryptanalysis.
 3. https://project.inria.fr/quasymodo/results/
-4. Samuel Jaques, Michael Naehrig, Martin Roetteler, Fernando Virdia: Implementing Grover Oracles for Quantum Key Search on AES and LowMC. EUROCRYPT (2) 2020: 280-310
-5. Jian Zou, Zihao Wei, Siwei Sun, Ximeng Liu, Wenling Wu: Quantum Circuit Implementations of AES
+4. Xavier Bonnetain: Tight Bounds for Simon's Algorithm. IACR Cryptol. ePrint Arch. 2020: 919 (2020)
+5. Samuel Jaques, Michael Naehrig, Martin Roetteler, Fernando Virdia: Implementing Grover Oracles for Quantum Key Search on AES and LowMC. EUROCRYPT (2) 2020: 280-310
+6. Jian Zou, Zihao Wei, Siwei Sun, Ximeng Liu, Wenling Wu: Quantum Circuit Implementations of AES
    with Fewer Qubits. ASIACRYPT 2020.
-6. Akinori Hosoyamada, Yu Sasaki: Finding Hash Collisions with Quantum Computers by Using Differential Trails with Smaller Probability than Birthday Bound. EUROCRYPT (2) 2020: 249-279
-7. Xiaoyang Dong, Siwei Sun, Danping Shi, Fei Gao, Xiaoyun Wang, Lei Hu: Quantum Collision Attacks on AES-like Hashing with Low Quantum Random Access Memories. ASIACRYPT 2020.
+7. Akinori Hosoyamada, Yu Sasaki: Finding Hash Collisions with Quantum Computers by Using Differential Trails with Smaller Probability than Birthday Bound. EUROCRYPT (2) 2020: 249-279
+8. Xiaoyang Dong, Siwei Sun, Danping Shi, Fei Gao, Xiaoyun Wang, Lei Hu: Quantum Collision Attacks on AES-like Hashing with Low Quantum Random Access Memories. ASIACRYPT 2020.
 
 ## Invited Talks ( To be announced ... )
 
