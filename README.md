@@ -3,7 +3,7 @@
 
 - Instructor: Siwei Sun
 
-- Lectures: 13:30 ~ 15:10, Saturday; 13:30 ~ 15:10, Sunday. (Date to be announced ...)
+- Lectures: 13:30 ~ 15:10, Saturday; 13:30 ~ 15:10, Sunday. (5-8周，中国科学院大学雁栖湖校区，教1-127)
 
 - Wechat Group: (加入请修改群名片为 真实姓名-单位，谢谢！)
 
@@ -45,5 +45,5 @@ I will introduce the basics of quantum computing via linear algebra from scratch
 
 ## Invited Talks ( To be announced ... )
 
-This will be hold online due the current regulations of Chinese Academy of Sciences.
+This will be online due to the current regulations of Chinese Academy of Sciences.
 
