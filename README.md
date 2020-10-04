@@ -2,7 +2,12 @@
 ## About 
 
 - Instructor: Siwei Sun
+
 - Lectures: 13:30 ~ 15:10, Saturday; 13:30 ~ 15:10, Sunday. (Date to be announced ...)
+
+- Wechat Group: (加入请修改群名片为 真实姓名-单位，谢谢！)
+
+  ![1601795488966](D:\MyWork\cas-symmetric-Q-lecture\wechat_group.png)
 
 ## Course Description
 
