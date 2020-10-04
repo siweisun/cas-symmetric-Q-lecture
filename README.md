@@ -7,7 +7,7 @@
 
 - Wechat Group: (加入请修改群名片为 真实姓名-单位，谢谢！)
 
-  ![1601795488966](D:\MyWork\cas-symmetric-Q-lecture\wechat_group.png)
+  ![1601795488966](https://github.com/siweisun/cas-symmetric-Q-lecture/blob/main/wechat_group.png)
 
 ## Course Description
 
