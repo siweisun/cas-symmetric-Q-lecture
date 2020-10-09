@@ -3,7 +3,7 @@
 
 - Instructor: Siwei Sun
 
-- Lectures: 13:30 ~ 15:10, Saturday; 13:30 ~ 15:10, Sunday. (5-8周，中国科学院大学雁栖湖校区，教1-127)
+- Lectures: 13:30 ~ 15:10, Saturday; 16:25 ~ 18:05, Sunday. (5-8周，中国科学院大学雁栖湖校区，教1-127)
 
 - Wechat Group: (加入请修改群名片为 真实姓名-单位，谢谢！)
 
