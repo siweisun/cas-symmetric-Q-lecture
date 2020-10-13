@@ -42,6 +42,7 @@ I will introduce the basics of quantum computing via linear algebra from scratch
    with Fewer Qubits. ASIACRYPT 2020.
 7. Akinori Hosoyamada, Yu Sasaki: Finding Hash Collisions with Quantum Computers by Using Differential Trails with Smaller Probability than Birthday Bound. EUROCRYPT (2) 2020: 249-279
 8. Xiaoyang Dong, Siwei Sun, Danping Shi, Fei Gao, Xiaoyun Wang, Lei Hu: Quantum Collision Attacks on AES-like Hashing with Low Quantum Random Access Memories. ASIACRYPT 2020.
+9. Gregor Leander, Alexander May: Grover Meets Simon - Quantumly Attacking the FX-construction. ASIACRYPT (2) 2017: 161-178
 
 ## Invited Talks ( To be announced ... )
 
