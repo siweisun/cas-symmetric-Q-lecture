@@ -29,6 +29,8 @@ I will introduce the basics of quantum computing via linear algebra from scratch
 
 - Grover's algorithm and symmetric-key cryptanalysis
 
+- The BHT algorithm for finding collisions of a hash function
+
   
 
 ## Readings
