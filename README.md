@@ -31,6 +31,8 @@ I will introduce the basics of quantum computing via linear algebra from scratch
 
 - The BHT algorithm for finding collisions of a hash function
 
+- Quantum 
+
   
 
 ## Readings
